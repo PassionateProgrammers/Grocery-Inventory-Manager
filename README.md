@@ -1,6 +1,8 @@
 # Grocery-Inventory-Manager
 Project for COP4331 at FAU
 
+Video Link: https://www.youtube.com/watch?v=V4pbvlbas44
+
 A lightweight Java Swing desktop application for tracking household food inventory. Items can be organized by custom locations, assigned categories, filtered by freshness, searched, sorted, and managed through an intuitive UI. A built-in grocery list tool allows quick note-taking with PDF export and printing.
 
 ## Technologies Used
