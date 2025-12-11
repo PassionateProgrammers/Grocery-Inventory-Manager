@@ -1,0 +1,15 @@
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/Main.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/controller/CategoryController.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/controller/InventoryController.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/controller/LocationController.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/dao/DatabaseAdapter.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/model/Category.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/model/FoodItem.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/model/Inventory.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/model/Location.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/view/CategoryManagementView.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/view/FoodItemTableModel.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/view/GroceryListView.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/view/ItemFormView.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/view/LocationManagementView.java
+/Users/james/Desktop/Grocery Inventory Manager/GroceryInventoryManager/src/main/java/com/james/groceryinventorymanager/view/MainView.java
